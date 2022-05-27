@@ -1,4 +1,4 @@
-name: OWASP ZAP Integration with GitHub Actions3
+name: zaproxy/action-baseline@v0.3.0 https://www.zaproxy.org/
 
 on: [push]
 
